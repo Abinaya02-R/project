@@ -18,4 +18,4 @@ login.login_view = 'login'
 import routes, models
 
 
-db.create_all()
+#db.create_all()
